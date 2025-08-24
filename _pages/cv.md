@@ -11,20 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S in Human Systems Engineering, 2026
+* A.A in Graphic Design
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2025: Undergraduate Research Assistant
+  * Arizona State University, Science of Learning and Educational Technology Lab/Learning Engineering Institute
+  * Duties includes: TBD
+  * Supervisor: TBD
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
+* Summer 2025: User Experience Research Intern
+  * OneAZ Credit Union
+  * Duties included: Created a 40+ method UX playbook, facilitated workshops
   * Supervisor: Professor Hub
 
 * Summer 2015: Research Assistant
